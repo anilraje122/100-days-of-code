@@ -15,3 +15,12 @@
 **Thoughts**: It was quite easy to understand the basics. but I'm exited about new concepts like CSS variables, relative units, etc.
 
 
+### Day 3: Sep 8, Tuesday 2020
+
+**Today's Progress**: 
+1. CSS pseudo classes
+2. CSS Shapes and Animations 
+
+**Thoughts**: CSS shapes and animations are so much fun to learn! Completed few small challenges from http://freecodecamp.org and saved it here https://codepen.io/anilraje122
+
+
