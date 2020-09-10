@@ -22,4 +22,10 @@
 2. Introduction to Applied Accessibility 
 **Thoughts**: HTML5 introduced bunch of new tags to include all web accessibility requirements. Using them makes your web site so easy for differently abled people to access.
 
+### Day 5: Sep 10, Thursday 2020
+**Today's Progress**: 
+1. Applied Accessibility is finished
+2. Introduction to responsive web design
+
+
 
