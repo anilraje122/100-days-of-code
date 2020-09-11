@@ -27,5 +27,11 @@
 1. Applied Accessibility is finished
 2. Introduction to responsive web design
 
+### Day 6: Sep 11, Thursday 2020
+**Today's Progress**: 
+1. Responsive design is finished
+2. CSS Flexbox is finished
+**Thoughts**: CSS Flex is really cool. We could just use it with media queries to make a website fully responsive. Without using any extra libraries like Bootstrap.
+
 
 
