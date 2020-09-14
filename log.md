@@ -33,5 +33,10 @@
 2. CSS Flexbox is finished
 **Thoughts**: CSS Flex is really cool. We could just use it with media queries to make a website fully responsive. Without using any extra libraries like Bootstrap.
 
+### Day 7: Sep 14, Monday 2020
+**Today's Progress**: 
+1. CSS grid is finished
+2. Completed the first project - https://codepen.io/anilraje122/project/editor/ZWEWLQ
+
 
 
