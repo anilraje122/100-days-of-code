@@ -36,7 +36,12 @@
 ### Day 7: Sep 14, Monday 2020
 **Today's Progress**: 
 1. CSS grid is finished
-2. Completed the first project - https://codepen.io/anilraje122/project/editor/ZWEWLQ
+2. Completed the first project - https://github.com/anilraje122/fcc/tree/master/tribute-page
+
+### Day 8: Sep 15, Tuesday 2020
+**Today's Progress**: 
+1. Completed second project - https://github.com/anilraje122/fcc/tree/master/survey-form
+**Thoughts**: First project was pretty easy without any styling! but I had so much fun with CSS in survey form project.
 
 
 
